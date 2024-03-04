@@ -1,1 +1,1 @@
-# DOG-CLAN3
+TinDog Starting Files
